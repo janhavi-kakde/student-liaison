@@ -1,1 +1,2 @@
 # student-liaison
+A Java-based application to manage student activities like workshops, hackathons, and competitions. Students can upload certificates with descriptions, while faculty validate and store data efficiently. The system uses JDBC to integrate with a relational database, allowing administrators to monitor student participation seamlessly. It is designed to streamline record-keeping without unnecessary distractions.
